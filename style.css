@@ -288,6 +288,9 @@
 .gallary .card img:hover{
     transform: scale(1.1);
 }
+
+
+
 /* Section Gallary End */
 
 
@@ -323,6 +326,20 @@
     font-weight: 550;
     transition: 0.5s ease;
     cursor: pointer;
+}
+#gallery-btn{
+    width: 150px;
+    height: 38px;
+    border: none;
+    border-radius: 5px;
+    background: #ffa500;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 550;
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin: 20px;
+
 }
 #about-btn:hover{
     width: 170px;
